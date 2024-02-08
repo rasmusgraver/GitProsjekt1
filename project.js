@@ -6,4 +6,6 @@ function endreFarge() {
     tilfFarge = "#" + tilfFarge
     console.log("Tilfeldig fargekode: " + tilfFarge)
     document.body.style.backgroundColor = tilfFarge
+
+
 }
